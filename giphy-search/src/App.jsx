@@ -10,7 +10,7 @@ function App() {
       <div className="ui container">
         <GifSearch />
         <br />
-        <GifContainer />
+        {/* <GifContainer /> */}
       </div>
     </div>
   );
