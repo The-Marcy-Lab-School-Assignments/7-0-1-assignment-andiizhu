@@ -34,18 +34,18 @@ Your goal is to meet at least 75% of these requirements to complete the assignme
 
 **React Fundamentals**
 
-- [ ] Props are extracted in child components using destructuring
+- [x] Props are extracted in child components using destructuring
 - [x] `useState` is used to manage state
 - [x] `useEffect` is used to perform an asynchronous fetch call.
 - [x] The gifs are displayed as an unordered list (`ul`)
 - [x] Every `li` in the `ul` has a unique `key` prop
-- [ ] The form is a controlled form.
+- [x] The form is a controlled form.
 - [ ] Bonus: modify the `useEffect` hook to be re-triggered whenever the user input changes (not just when they click the button).
 
 **Miscellaneous**
 
-- [ ] The `config.js` file is listed in the `.gitignore` and is NOT included in the final repository.
-- [ ] At no point did you ever use any vanilla DOM JS methods (e.g. `document.querySelector` or `document.createElement`)
+- [x] The `config.js` file is listed in the `.gitignore` and is NOT included in the final repository.
+- [x] At no point did you ever use any vanilla DOM JS methods (e.g. `document.querySelector` or `document.createElement`)
 - [ ] Bonus: Display the gifs as a grid using flexbox or grid!
 
 ## Set Up & Starter Code
